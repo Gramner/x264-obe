@@ -4,7 +4,7 @@
 ;* Copyright (C) 2008-2011 x264 project
 ;*
 ;* Authors: Loren Merritt <lorenm@u.washington.edu>
-;*          Fiona Glaser <fiona@x264.com>
+;*          Jason Garrett-Glaser <darkshikari@gmail.com>
 ;*          Holger Lubitz <holger@lubitz.org>
 ;*
 ;* This program is free software; you can redistribute it and/or modify

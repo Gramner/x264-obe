@@ -3,7 +3,7 @@
  *****************************************************************************
  * Copyright (C) 2003-2011 x264 project
  *
- * Authors: Fiona Glaser <fiona@x264.com>
+ * Authors: Jason Garrett-Glaser <darkshikari@gmail.com>
  *          Laurent Aimar <fenrir@via.ecp.fr>
  *          Loren Merritt <lorenm@u.washington.edu>
  *          Henrik Gramner <hengar-6@student.ltu.se>

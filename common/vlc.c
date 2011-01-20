@@ -4,7 +4,7 @@
  * Copyright (C) 2003-2011 x264 project
  *
  * Authors: Laurent Aimar <fenrir@via.ecp.fr>
- *          Fiona Glaser <fiona@x264.com>
+ *          Jason Garrett-Glaser <darkshikari@gmail.com>
  *          Henrik Gramner <hengar-6@student.ltu.se>
  *
  * This program is free software; you can redistribute it and/or modify

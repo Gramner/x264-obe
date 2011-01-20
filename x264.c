@@ -6,7 +6,7 @@
  * Authors: Loren Merritt <lorenm@u.washington.edu>
  *          Laurent Aimar <fenrir@via.ecp.fr>
  *          Steven Walters <kemuri9@gmail.com>
- *          Fiona Glaser <fiona@x264.com>
+ *          Jason Garrett-Glaser <darkshikari@gmail.com>
  *          Kieran Kunhya <kieran@kunhya.com>
  *
  * This program is free software; you can redistribute it and/or modify

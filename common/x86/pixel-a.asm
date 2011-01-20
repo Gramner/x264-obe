@@ -7,7 +7,7 @@
 ;*          Holger Lubitz <holger@lubitz.org>
 ;*          Laurent Aimar <fenrir@via.ecp.fr>
 ;*          Alex Izvorski <aizvorksi@gmail.com>
-;*          Fiona Glaser <fiona@x264.com>
+;*          Jason Garrett-Glaser <darkshikari@gmail.com>
 ;*          Oskar Arvidsson <oskar@irock.se>
 ;*
 ;* This program is free software; you can redistribute it and/or modify

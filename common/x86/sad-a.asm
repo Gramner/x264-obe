@@ -4,7 +4,7 @@
 ;* Copyright (C) 2003-2011 x264 project
 ;*
 ;* Authors: Loren Merritt <lorenm@u.washington.edu>
-;*          Fiona Glaser <fiona@x264.com>
+;*          Jason Garrett-Glaser <darkshikari@gmail.com>
 ;*          Laurent Aimar <fenrir@via.ecp.fr>
 ;*          Alex Izvorski <aizvorksi@gmail.com>
 ;*

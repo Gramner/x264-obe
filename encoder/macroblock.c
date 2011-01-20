@@ -5,7 +5,7 @@
  *
  * Authors: Laurent Aimar <fenrir@via.ecp.fr>
  *          Loren Merritt <lorenm@u.washington.edu>
- *          Fiona Glaser <fiona@x264.com>
+ *          Jason Garrett-Glaser <darkshikari@gmail.com>
  *          Henrik Gramner <hengar-6@student.ltu.se>
  *
  * This program is free software; you can redistribute it and/or modify
